@@ -1,1 +1,1 @@
-# spring-hibernate-for-beginners-udemy
+# Spring & Hibernate for Beginners - Udemy
