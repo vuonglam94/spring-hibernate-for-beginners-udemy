@@ -1,4 +1,4 @@
-package com.lamv.springdemo;
+package com.lamv.springdemo.mvc;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
